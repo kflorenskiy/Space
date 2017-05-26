@@ -1,0 +1,16 @@
+body {
+    position: fixed;
+    background: #000025;
+}
+
+#sidiv-Earth {
+    background: linear-gradient(to top, blue, lightblue);
+    padding: 10px;
+    border: 1px solid #333;
+}
+
+#sidiv-FrameCount {
+    position: fixed;
+    background: #000025;
+    color: #00FF00;    
+}
