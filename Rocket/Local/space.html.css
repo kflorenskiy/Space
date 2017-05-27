@@ -9,8 +9,8 @@ body {
     border: 1px solid #333;
 }
 
-#sidiv-FrameCount {
+#sidiv-FrameDebugInfo {
     position: fixed;
     background: #000025;
-    color: #00FF00;    
+    color: #00FF00;
 }
